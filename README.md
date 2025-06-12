@@ -53,8 +53,8 @@ A lightweight, universal push-to-talk application for Windows that works with an
 ### Build Steps
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/universal-ptt.git
-cd universal-ptt
+git clone https://github.com/moonytel/UniversalPTT.git
+cd UniversalPTT
 
 # Restore dependencies
 dotnet restore
